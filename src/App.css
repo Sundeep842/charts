@@ -1,0 +1,13 @@
+.grid_container{
+    display: flex;
+}
+.item1{
+    grid-column: 1 /2;
+    height:400px;
+    width: 400px;
+    margin-right:10px;
+
+}
+.item2{
+    margin-top: 90px;
+}
